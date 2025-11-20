@@ -38,5 +38,5 @@ C. Instal Dashboard
 D. Run Dashboard
 1. Buka XAMPP 
 2. Run Apache dan MySql
-3. Buka Websitem dan ketikan localhost/'NAMA FOLDER FILE TEMPAT SIMPAN SOURCE CODE YANG DIDOWNLOAD'
+3. Buka chrome atau sejenisnya dan ketikan localhost/'NAMA FOLDER FILE TEMPAT SIMPAN SOURCE CODE YANG DIDOWNLOAD'
 !!Contoh : localhost/AdventureWorks_OLAP_Rival Manti
