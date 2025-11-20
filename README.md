@@ -27,7 +27,7 @@ C. Run Mondrian / Menjalankan Mondrian
 2. Nyalakan Apache, MySql, dan Tomcat
 3. Tekan admin pada tomcat.
 4. tambahakan "mondrian" di belakang address web
-!! copy dan pasre di address web http://localhost:8080/mondrian !!
+!! copy dan paste di address web http://localhost:8080/mondrian !!
 
 -------------------------------------------
 
