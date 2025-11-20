@@ -1,5 +1,7 @@
 Cara Instal dan Menjalankan Code / How To Instal dan Run Code
 
+WAJIB DOWNLOAD MONDRIAN TERLEBIH DAHULU
+
 A. Instal Database (SQL)
 1. download file aw_wh.sql
 2. buka XAMPP / MySql Workbench
