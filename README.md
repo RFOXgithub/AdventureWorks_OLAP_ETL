@@ -2,7 +2,7 @@ Cara Instal dan Menjalankan Code / How To Instal dan Run Code
 
 WAJIB DOWNLOAD MONDRIAN TERLEBIH DAHULU
 
-Mondrian Version: 3.7.0
+Mondrian Version: 3.5.0
 
 A. Instal Database (SQL)
 1. download file aw_wh.sql
