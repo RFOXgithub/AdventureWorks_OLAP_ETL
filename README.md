@@ -7,7 +7,7 @@ Mondrian Version: 3.3
 - Download Mondrian versi 3.3
 - Extract file (Path disesuaikan)
 - Pibdahkan Mondrian.war ke ....\XAMPP\tomcat\webapps
-- Buka Xampp dan aktifkan Tomcat (folder mondrian akan otomatis terbuat pada folder webapps
+- Buka Xampp dan aktifkan Tomcat (folder mondrian akan otomatis terbuat pada folder webapps)
 
 A. Instal Database (SQL)
 1. download file aw_wh.sql
