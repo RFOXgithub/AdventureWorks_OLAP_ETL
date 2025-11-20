@@ -1,3 +1,9 @@
+!!Update 21/11/2025
+
+Perlu configurasi menggunakan tools versi lama (jadi masih terdapat error pada JPivot)
+
+----------------------
+
 Cara Instal dan Menjalankan Code / How To Instal dan Run Code
 
 WAJIB DOWNLOAD MONDRIAN TERLEBIH DAHULU
