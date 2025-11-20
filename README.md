@@ -25,7 +25,7 @@ C. Run Mondrian / Menjalankan Mondrian
 -------------------------------------------
 
 C. Instal Dashboard
-1. Download semua data PHP, CSS, SCSS, VENDOR
+1. Download semua data PHP, CSS, SCSS, VENDOR (AdventureWorks_OLAP_Rival Manti.zip)
 2. Masukan pada path D:\Apk\XAMPP\htdocs
 
 D. Run Dashboard
