@@ -1,6 +1,6 @@
 !!Update 21/11/2025
 
-Perlu configurasi menggunakan tools versi lama (jadi masih terdapat error pada JPivot)
+Perlu configurasi menggunakan tools versi lama (jadi masih terdapat error pada JPivot jiak tidak sesuai versi aplikasi yang digunakan)
 
 ----------------------
 
